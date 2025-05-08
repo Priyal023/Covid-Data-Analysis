@@ -1,8 +1,8 @@
 # Covid Data Analysis
 ## This project focuses on the analysis of COVID-19 data, leveraging SQL to explore key metrics, trends, and insights. The dataset includes COVID-19 cases, deaths, and vaccination data from various countries and continents, offering a comprehensive view of the pandemic's impact globally and regionally.
 ## Dataset Used ->
-Covid dataset ->
-Vaccination dataset ->
+ <a href="https://github.com/AlexTheAnalyst/Por...">Covid Deaths</a>
+ <a href="https://github.com/AlexTheAnalyst/Por...">Covid Vaccinations</a>
 
 ## Key Objectives 
  * Cleaned COVID-19 data using Excel for consistency and accuracy.
